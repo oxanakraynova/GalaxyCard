@@ -108,14 +108,14 @@ h2 {
   flex: 1 1 33.33%;
   list-style: none;
   padding: 20px 5px;
-  height: 10vh;
+  height: 15vh;
 }
 .item span {
   display: block;
   font-size: 16px;
 }
 .item img {
-  padding-top: 10px;
+  padding-top: 15px;
 }
 
 a {
