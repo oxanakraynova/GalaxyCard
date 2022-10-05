@@ -30,7 +30,7 @@ body {
   padding: 50px;
 }
 h1 {
-  font-size: 70px;
+  font-size: 60px;
   font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
   color: var(--secondarycolor);
 }
@@ -92,7 +92,7 @@ p {
 
 h2 {
   color: var(--secondarycolor);
-  font-size: 35px;
+  font-size: 30px;
 }
 .elements {
   display: flex;
